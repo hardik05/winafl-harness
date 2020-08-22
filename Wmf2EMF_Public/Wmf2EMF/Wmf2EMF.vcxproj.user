@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerCommandArguments>E:\fuzzing_work\wmf2emf\crash_\crashes\Wmf2EMF.exe\gdi32full_IsValidMetaHeader16\0xc0000005L\crash_id_000014_00_EXCEPTION_ACCESS_VIOLATION__2020_04_12_08_39_45</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LocalDebuggerCommandArguments>E:\fuzzing_work\wmf2emf\crash_\crashes\Wmf2EMF.exe\gdi32full_IsValidMetaHeader16\0xc0000005L\crash_id_000014_00_EXCEPTION_ACCESS_VIOLATION__2020_04_12_08_39_45</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>
