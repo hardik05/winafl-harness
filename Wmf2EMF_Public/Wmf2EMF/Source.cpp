@@ -2,7 +2,7 @@
 winafl harness to fuzz wmf2emf conversion
 Author: Hardik Shah
 Email: hardik05@gmail.com
-Web: hardik05@gmail.com
+Web: http://hardik05.wordpress.com
 */
 
 #include <windows.h>
